@@ -1,4 +1,4 @@
-# <p align="center">NCPI Interoperability Projects 2024</p>
+# <p align="center">Active NCPI Interoperability Projects 2024</p>
 
 This repository contains introductions to the 2024 NCPI Interoperability Projects. These introductions provide a brief overview of the tools or services the projects are developing that enable or extend interoperability. The main work of each project is housed by the project team, and each project page will link to their repository.
 
